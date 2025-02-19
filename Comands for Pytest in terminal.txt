@@ -1,0 +1,3 @@
+Comands for Pytest in terminal:
+
+1) pytest -rA #to run pytest

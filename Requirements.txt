@@ -1,0 +1,16 @@
+Open the App in Your Browser: Open your browser and go to:
+http://127.0.0.1:5000
+
+This should display your To-Do List web app!
+
+Test the Features: You should be able to:
+
+Add tasks.
+View the list of tasks.
+Mark tasks as completed.
+Delete tasks.
+Debugging (if needed): If anything goes wrong, the terminal where the Flask server is running will show detailed error messages, which can help in debugging.
+
+Next Steps:
+You can start adding more features to the app, like editing tasks or saving tasks to a file or database.
+You can also deploy the app to platforms like Heroku or PythonAnywhere once you're happy with it.
