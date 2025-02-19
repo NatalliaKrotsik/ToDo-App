@@ -1,3 +1,13 @@
 Comands for Pytest in terminal:
 
 1) pytest -rA #to run pytest
+2) How to push progect from local to remote: 
+git init
+git remote add origin https://github.com/your-username/your-repo.git
+git add .
+git commit -m "Initial commit"
+git branch -M main  # Renames the branch to 'main' (if needed)
+git push -u origin main
+3) Check if the push was successful:
+git status
+git remote -v
